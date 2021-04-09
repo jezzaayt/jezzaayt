@@ -6,7 +6,7 @@ I am interested in R, Python, Data Science/Analytics. Graduated with a master's 
 
 Most used languages may not be ones I know the best as posted to github over time as one repo may have more code in others. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jezzaayt&hide=jupyter%20notebook&layout=compact&theme=slateorange)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jezzaayt&hide=jupyter%20notebook&layout=compact&theme=slateorange)
 
 
 
