@@ -1,6 +1,7 @@
 # 👋 Hi, I am Jeremy
 
-I am interested in R, Python, Data Science/Analytics. Graduated with a master's in Data Science. Interesting in the various forms of visualsiation and how different techniques can show the same datasets in different methods in order to achieve the best result for the desired audience. 
+I am interested in R, Python, Data Science/Analytics. Graduated with a master's in Data Science.
+I am interested in the various forms of visualsiation and how different techniques can show the same datasets in different methods in order to achieve the best result for the desired audience. Building upon my skillset within the field. 
 
 ![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jezzaayt&show_icons=true&theme=slateorange)
 
