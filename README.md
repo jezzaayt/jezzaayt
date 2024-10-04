@@ -1,7 +1,14 @@
-# 👋 Hi, I am Jeremy
+# 👋 Hello, I am Jeremy
 
-I am interested in R, Python, Data Science/Analytics. Graduated with a master's in Data Science.
-I am interested in the various forms of visualsiation and how different techniques can show the same datasets in different methods in order to achieve the best result for the desired audience. Building upon my skillset within the field. 
+I'm a data enthusiast with a Master's in Data Science, specializing in R and Python. My passion lies in data visualization—exploring various techniques to represent datasets creatively and effectively for different audiences. I'm eager to learn about other fields where Python can take me, continuously working to enhance my skills in data analysis, visualization, or other areas where it may be used utiilized in automation, cleaning data and more.      
+
+# Regular Visualisation Projects
+
+- [**Tidy Tuesdays**](https://github.com/jezzaayt/TidyTuesdays): Engaging regularly with weekly data challenges to refine my data wrangling and visualization techniques.
+
+- [**30 Day Chart Challenge**](https://github.com/jezzaayt/30DayChartChallenge): A month-long challenge to produce diverse visualizations and push my creative boundaries. Where I participianted in 2021 and partly in 2022. I do aim to participant again in the future.
+ 
+
 
 
 
