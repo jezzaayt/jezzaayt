@@ -1,6 +1,6 @@
 # 👋 Hello, I am Jeremy
 
-I'm a data enthusiast with a Master's in Data Science, specializing in R and Python. My passion lies in data visualization—exploring various techniques to represent datasets creatively and effectively for different audiences. I'm eager to learn about other fields where Python can take me, continuously working to enhance my skills in data analysis, visualization, or other areas where it may be used utiilized in automation, cleaning data and more.      
+I'm a data enthusiast with a Master's in Data Science. 
 
 # Regular Visualisation Projects
 
